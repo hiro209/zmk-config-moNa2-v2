@@ -29,19 +29,19 @@ layers:
   - B
   - Sft+Z
   - Sft+C
-  - N
+  - '-'
   - N
   - M
   - ','
   - .
   - LCTRL
   - LEFT WIN
-  - F16
-  - BACKSPACE
-  - {t: ENTER, h: default}
-  - LANG2
-  - {t: '&to_layer_0 LANGUAGE_4', h: '2'}
-  - {t: BACKSPACE, h: '1'}
+  - LEFT ALT
+  - SPACE
+  - {t: BACKSPACE, h: default}
+  - {t: '&to_layer_0 LANGUAGE_2', h: '3'}
+  - {t: '&to_layer_0 LANGUAGE_1', h: '2'}
+  - {t: ENTER, h: '1'}
   - LEFT ALT
   '1':
   - '1'
@@ -54,8 +54,8 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - +
+  - '-'
   - '['
   - ']'
   - {t: ▽, type: trans}
@@ -63,18 +63,18 @@ layers:
   - {t: ▽, type: trans}
   - (
   - )
-  - {t: ▽, type: trans}
+  - '='
   - \
+  - '*'
+  - /
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '{'
+  - '}'
   - {t: ▽, type: trans}
   - '|'
   - {t: ▽, type: trans}
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -306,3 +306,5 @@ combos:
   k: {t: ESC, h: '4'}
 - p: [11, 12]
   k: TAB
+- p: [17, 18]
+  k: '&mkp LCLK'
