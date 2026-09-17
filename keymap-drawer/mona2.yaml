@@ -308,3 +308,5 @@ combos:
   k: TAB
 - p: [17, 18]
   k: '&mkp LCLK'
+- p: [39, 41]
+  k: ''
