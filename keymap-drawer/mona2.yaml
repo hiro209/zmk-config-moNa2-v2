@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - Sft+V
+  - Ctl+V
   - H
   - J
   - K
@@ -27,8 +27,8 @@ layers:
   - C
   - V
   - B
-  - Sft+Z
-  - Sft+C
+  - Ctl+Z
+  - Ctl+C
   - '-'
   - N
   - M
@@ -38,7 +38,7 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - SPACE
-  - {t: BACKSPACE, h: default}
+  - BACKSPACE
   - {t: '&to_layer_0 LANGUAGE_2', h: '3'}
   - {t: '&to_layer_0 LANGUAGE_1', h: '2'}
   - {t: ENTER, h: '1'}
@@ -308,5 +308,3 @@ combos:
   k: TAB
 - p: [17, 18]
   k: '&mkp LCLK'
-- p: [39, 41]
-  k: ''
