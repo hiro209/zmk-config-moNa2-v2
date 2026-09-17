@@ -38,6 +38,11 @@
             bindings = <&mkp LCLK>;
             key-positions = <17 18>;
         };
+
+        BT_onlyR {
+            bindings = <&none>;
+            key-positions = <39 41>;
+        };
     };
 
     macros {
