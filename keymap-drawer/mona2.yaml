@@ -49,9 +49,9 @@ layers:
   - '3'
   - '4'
   - '5'
-  - '6'
   - '7'
   - '8'
+  - '9'
   - '9'
   - '0'
   - +
@@ -60,9 +60,9 @@ layers:
   - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - (
-  - )
+  - '4'
+  - '5'
+  - '6'
   - '='
   - \
   - '*'
@@ -72,9 +72,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '{'
-  - '}'
+  - '1'
+  - '2'
+  - '3'
   - {t: ▽, type: trans}
   - '|'
   - {t: ▽, type: trans}
