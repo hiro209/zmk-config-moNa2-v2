@@ -54,7 +54,7 @@ layers:
   - '9'
   - /
   - '*'
-  - +
+  - PRINTSCREEN
   - F5
   - F6
   - F7
@@ -85,7 +85,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
+  - BACKSPACE
   '2':
   - '!'
   - '@'
