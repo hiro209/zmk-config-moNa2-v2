@@ -27,12 +27,12 @@ layers:
   - C
   - V
   - B
-  - Ctl+Z
+  - DELETE
   - Ctl+C
-  - '-'
   - N
   - M
   - ','
+  - .
   - .
   - LCTRL
   - LEFT WIN
@@ -42,7 +42,7 @@ layers:
   - {t: '&to_layer_0 LANGUAGE_2', h: '3'}
   - {t: '&to_layer_0 LANGUAGE_1', h: '2'}
   - {t: ENTER, h: '1'}
-  - LEFT ALT
+  - '-'
   '1':
   - '1'
   - '2'
