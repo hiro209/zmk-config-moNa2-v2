@@ -33,7 +33,7 @@ layers:
   - M
   - ','
   - .
-  - .
+  - /
   - LCTRL
   - LEFT WIN
   - LEFT ALT
